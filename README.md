@@ -1,6 +1,6 @@
 # xetra-etl-project - data engineering project
 
-# A production-ready ETL program using Object Operating Programming(OOP) method
+# A production-ready ETL program using Object-Oriented Programming(OOP) method
 
 -  Tools used for programming: Python 3.10, Jupyter Notebook, Git and Github, Visual Studio Code, and the Python packages Pandas, boto3, pyyaml, awscli, jupyter, pylint, moto, coverage and the memory-profiler
 
